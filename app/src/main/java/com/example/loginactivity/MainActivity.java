@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
     BackgroundTask backgroundTask = new BackgroundTask(this);
     backgroundTask.execute(method,login_name,login_pass);
 
+    //ramovha rotondwa
+
     }
 
 }
