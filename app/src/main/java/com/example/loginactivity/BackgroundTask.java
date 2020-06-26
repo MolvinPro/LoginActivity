@@ -74,7 +74,7 @@ public class BackgroundTask extends AsyncTask<String,Void,String>{
 
         }
 
-        else if(method.equals("testing if you remember git")){
+        else if(method.equals("testing if you remember git please work")){
 
             String login_name = params[1];
             String login_pass = params[2];
